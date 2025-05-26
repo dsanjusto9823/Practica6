@@ -63,8 +63,7 @@ void loop() {
 
 ```
 ### Funcionamiento del código:
-En el caso que la tarjeta se inicialice correctamente, se crea un archivo donde se escribe "Hola, este es un archivo creado en la SD con ESP32-S3.". Luego se cierra el archivo para que no se pierdan los datos. Una vez 
-echo los dos pasos se abre el mismo archivo llamdo ejemplo.txt para leer lo que hay en este y se muestra por el monitor serial. 
+En el caso que la tarjeta se inicialice correctamente, se crea un archivo donde se escribe "Hola, este es un archivo creado en la SD con ESP32-S3.". Luego se cierra el archivo para que no se pierdan los datos. Una vez echo los dos pasos se abre el mismo archivo llamdo ejemplo.txt para leer lo que hay en este y se muestra por el monitor serial. 
 
 ###Salidas:
 En el puerto serie se muesrtra:
